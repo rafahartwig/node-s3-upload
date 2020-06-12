@@ -5,8 +5,8 @@ https://www.npmjs.com/package/@rafa.hartwig/s3-upload
 
 npm i @rafa.hartwig/s3-upload
 
+```
 require('@rafa.hartwig/s3-upload')
-
 config = {
             accessKeyId: 'xxxxxxxxxxxxxx', //KEY ID from AWS
             secretAccessKey: 'xxxxxxxxxxxxxx', // Secret Acess key from AWS
@@ -17,3 +17,4 @@ config = {
         }
 
 uploadFile(config)
+```
