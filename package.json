@@ -1,6 +1,6 @@
 {
   "name": "@rafa.hartwig/s3-upload",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "File upload to amazon s3 drive",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "Rafael Hartwig",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.695.0"
+    "aws-sdk": "^2.696.0"
   }
 }
