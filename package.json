@@ -1,0 +1,14 @@
+{
+  "name": "@rafahartwig/s3-upload",
+  "version": "1.0.0",
+  "description": "File upload to amazon s3 drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Hartwig",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.695.0"
+  }
+}
