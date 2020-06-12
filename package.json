@@ -1,5 +1,5 @@
 {
-  "name": "@rafahartwig/s3-upload",
+  "name": "@rafa.hartwig/s3-upload",
   "version": "1.0.0",
   "description": "File upload to amazon s3 drive",
   "main": "index.js",
